@@ -1,2 +1,4 @@
-# html-pricing-11
+# Html Pricing 11
+
 Pricing options comparison HTML structure.
+
